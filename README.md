@@ -1,4 +1,2 @@
-# APZ3
-# Authors:
-# Oleksii Yarosh
+# APZ234
  
